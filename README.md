@@ -8,7 +8,7 @@ This repository contains essential information and resources for the "30 Days of
 
 - *Study Plan Name*: 30 Days of JavaScript
 - *Platform*: LeetCode
-- *Enrollment Link*: [Study Plan Link]
+- *Enrollment Link*: [(https://leetcode.com/studyplan/30-days-of-javascript/)]
 - *Duration*: 30 Days
 - *Skill Level*: Beginner to Intermediate
 
