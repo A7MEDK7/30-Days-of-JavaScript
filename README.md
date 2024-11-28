@@ -30,7 +30,7 @@ In this study plan, you will cover:
 To get the most out of this study plan, it's recommended that you have:
 
 - Basic understanding of HTML and CSS
-- Some programming experience (not necessarily in JavaScript)
+- Some programming experience in Javascript
 - A computer with a code editor
   
 ## Getting Started 🏁
